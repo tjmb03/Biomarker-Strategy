@@ -140,3 +140,4 @@ Add to repo `.gitignore`:
 ![UMAP Instability](results/plots/umap_instability.png)
 ![UMAP Low Stability](results/plots/umap_low_stability.png)
 ```
+> © 2026 tjmb03. Source code for the interactive dashboards is **available on request** for academic and research use.
