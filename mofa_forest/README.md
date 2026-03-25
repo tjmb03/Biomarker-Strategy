@@ -19,3 +19,4 @@ You will need the following R packages:
 install.packages(c("dplyr", "ggplot2", "randomForest", "caret"))
 if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
 BiocManager::install("MOFA2")
+> © 2026 tjmb03. Source code for the interactive dashboards is **available on request** for academic and research use.
